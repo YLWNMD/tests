@@ -1,2 +1,2 @@
-# tests
-a snake game based on c++
+# Student tests
+a snake game based on the c++
